@@ -1,4 +1,4 @@
-# neilgurnani1.github.io
+# neil-gurnani.github.io
 My Personal Website 
 
 # About
